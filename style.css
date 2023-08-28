@@ -1,0 +1,49 @@
+*
+{
+    padding: 0;
+    margin: 0;
+    font-family: 'Anton', sans-serif;
+font-family: 'Itim', cursive;
+font-family: 'Josefin Sans', sans-serif;
+font-family: 'Julee', cursive;
+font-family: 'Pacifico', cursive;
+font-family: 'Quicksand', sans-serif;
+}
+
+body
+{
+    background-image: url(img/main.jpg);
+    height: 100vh;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.navbar-brand
+{
+    border: 3px double orange;
+    padding: 10px 10px 10px 10px;
+    margin-left: 50px;
+    padding: 0px 50px 0px 50px;
+    text-align: center;
+}
+
+.navbar-nav
+{
+    border: 2px solid yellow;
+    margin-left: 200px;
+    padding:0px 50px 0px 50px;
+}
+
+.card-deck
+{
+  margin: 20px 20px 50px 20px;
+  color: brown;
+}
+
+.card-title
+{
+color: black;
+text-align: center;
+}
